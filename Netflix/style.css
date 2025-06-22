@@ -320,5 +320,8 @@ footer .recap {
     .faq h2 {
         font-size: 32px;
     }
+    .foot-button input {
+        width: 300px;
+    }
 
 }
